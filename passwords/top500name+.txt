@@ -8,12 +8,21 @@ test
 test1
 user
 guest
+001
 0000
 0001
 0002
 1111
 2222
 000000
+bgs
+gly
+rsb
+hr
+xxb
+kf
+kefu
+xsb
 
 zhangwei
 wangwei
