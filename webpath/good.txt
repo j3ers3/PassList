@@ -453,6 +453,12 @@
 /manage_login.asp
 /manage_login.php
 /manage_login.jsp
+/dede
+/mail
+/webmail
+/oa
+/crm
+/cms
 /{hostname}.zip
 /{hostname}.rar
 /{hostname}.tar.gz
