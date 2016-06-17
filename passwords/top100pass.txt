@@ -6,10 +6,13 @@ admin123
 sa
 sa123
 sasa
+mysql
+ftp
 sa123456
 systeam
 test
 manager
+sunshine
 
 123456
 a123456
@@ -111,3 +114,6 @@ asdasd123
 1123581321
 110120
 qq1314520
+919191
+818181
+717171

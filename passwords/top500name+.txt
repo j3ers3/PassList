@@ -8,7 +8,7 @@ test
 test1
 user
 guest
-x' or '1'='1
+admin' or '1'='1
 1
 0
 001
