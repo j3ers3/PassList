@@ -16,6 +16,11 @@ sunshine
 
 123456
 a123456
+password
+Password
+Password!
+Password01!
+P@ssword
 123456a
 5201314
 111111
@@ -117,3 +122,4 @@ qq1314520
 919191
 818181
 717171
+Password

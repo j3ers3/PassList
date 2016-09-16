@@ -2,6 +2,8 @@ admin
 admin888
 admin1
 admin01
+superadmin
+supermanager
 manager
 root
 test
@@ -9,6 +11,8 @@ test1
 user
 guest
 admin' or '1'='1
+subject
+zf
 1
 0
 001
