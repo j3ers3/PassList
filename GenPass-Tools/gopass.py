@@ -15,15 +15,15 @@ W = '\033[0m' 	 # white (normal)
 """ 字典生成，攻击个人账号"""
 
 def banner():
-	print G + '''
-  _______________uy
+	print B + '''
+  _______________
  ( Your password? )
   ---------------
          o   ^__^
           o  (oo)\_______
-             (__)\       )\/\/
-                 ||----w |
-                 ||     ||
+             (__)\          )\/\/
+                  ||----w |
+                  ||       ||
 	[gopass -n xx-xx -b yy-yy-yy]
 	  [sort uniq -->  good job]
 	''' + W
@@ -33,10 +33,10 @@ def print_err(err):
 
 def main():
 	
-	number = ['00','000','001','111','2008','2009','2010','2011','2012','2013','2014','2015']
+	number = ['00','000','001','111','2008','2009','2010','2011','2012','2013','2014','2015','2016','2017']
 	letter = []
-	spe = ['!','@','#','$','%','^','&','*','!@#','!!']
-	number += [n for n in range(22)]
+	spe = ['!','@','#','$','%','^','&','*','!@#','!!']		#特殊字符
+	number += [n for n in range(30)]
 	letter += [chr(l) for l in range(97,123)]
 	
 	parser = optparse.OptionParser('n[ame] b[irth] m[obile] w[save] p[sswd] t[ype] o[ther] >')
@@ -153,7 +153,7 @@ def main():
 		with open(save_f,'w') as f:
 			[f.writelines(x+'\n') for x in dic_list ]
 
-	# 不保持就打印出来	
+	# 不保存就打印出来	
 	else:
 		for x in dic_list:
 			print G + x
