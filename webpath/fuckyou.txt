@@ -1,4 +1,5 @@
 /.DS_Store
+/.ds_store
 /.bash_history
 /.bash_history.php
 /.bashrc
@@ -29,6 +30,7 @@
 /.svn
 /.svn/entries
 /.svn/text-base/
+/.hg/
 /.zsh
 /0.rar
 /0.zip
@@ -105,6 +107,7 @@
 /Ck/ckfinder/
 /Console/
 /console
+/console/login.jsp
 /ControlPanel/
 /DATA/
 /DATABASE/
@@ -119,6 +122,7 @@
 /README
 /README.md
 /SQL
+/mydata
 /ThinkPHP
 /ThinkPHP/LICENSE.txt
 /ThinkPHP/ThinkPHP.php
@@ -166,6 +170,7 @@
 /ad
 /AD
 /admin
+/admin/left.asp
 /admin-console/
 /admin-control/
 /admin.do
@@ -333,6 +338,8 @@
 /error.zip
 /errors.log
 /etadmin
+/myadmin
+/Madmin
 /ewebeditor/
 /examples
 /examples/servlets/servlet/SessionExample
@@ -358,6 +365,9 @@
 /houtai/
 /houtai123
 /houtai888
+/houtai/login.php
+/houtai/login.asp
+/houtai/login.jsp
 /htaccess.bak
 /htaccess.txt
 /htai
@@ -387,6 +397,7 @@
 /index.tar.tz
 /index.zip
 /index.jsp
+/index.do
 /index.jsp-bak
 /index.jsp_bak
 /index.jsp.bak
@@ -403,6 +414,8 @@
 /invoker/JMXInvokerServlet
 /j_security_check
 /jenkins/
+/me/
+/script/
 /jira/
 /jmx-console/
 /jmx-console/HtmlAdaptor
@@ -434,6 +447,9 @@
 /mana
 /manage/
 /manage_page
+/manage_web.asp
+/manage_web.jsp
+/manage_web.php
 /manage_login.asp
 /manage_login.jsp
 /manage_login.php
@@ -475,12 +491,14 @@
 /plus/flink_add.php
 /plus/mytag_js.php?aid=9090
 /plus/guestbook.php
+/guestbook/
 /pma/index.php
 /pmadmin/index.php
 /pmd/index.php
 /pmyadmin/index.php
 /portal
 /public
+/word
 /readme
 /readme.html
 /robots.txt
@@ -533,7 +551,9 @@
 /swfupload
 /swfupload/swfupload.swf
 /sysadmin
-/system
+/system/
+/systeminfo
+/systemInfo
 /system/login
 /sysmanage
 /sysmanager
@@ -706,6 +726,9 @@
 /weblogin
 /web-login
 /web1
+/web2
+/web
+/WEB
 /Page
 /page/login.aspx
 /page/login.asp
@@ -869,3 +892,9 @@
 /admin_index.aspx
 /admin_index.jsp
 /wap/wap-resume-show.php
+/cmscp
+/recruitment/mail_job.asp
+/Office
+/nz0808
+/scanner.php
+/destoon

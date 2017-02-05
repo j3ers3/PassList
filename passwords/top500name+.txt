@@ -2,18 +2,23 @@ admin
 admin888
 admin1
 admin01
+admini
 superadmin
 supermanager
 manager
 root
+root00
 test
 test1
 user
+user01
+user02
 guest
 admin' or '1'='1
 admin' or '1'='1 --+
 admin" or "1"
-admin" or "1" --+
+admin'--
+admin"--
 subject
 zf
 1

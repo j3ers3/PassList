@@ -1,0 +1,10 @@
+/var/www/
+/var/www/web/
+/var/www/html/
+/var/www/www/
+/var/www/site/
+/var/www/sites/
+
+D:\xampp\htdocs\
+C:\xampp\htdocs\
+E:\xampp\htdocs\
