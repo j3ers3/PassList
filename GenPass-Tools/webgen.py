@@ -7,7 +7,7 @@ except:
     print "[-] pip install termcolor"
     exit(1)
 
-__author__ = 'whois'
+__author__ = 'kkk'
 __date__ = '2016/6/2'
 """
     根据域名来生成字典

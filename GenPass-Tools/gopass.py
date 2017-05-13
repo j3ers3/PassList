@@ -4,7 +4,7 @@ from os.path import exists
 import optparse
 import sys
 
-__author__ = 'whois'
+__author__ = 'kkk'
 __date__ = '2016/1/1'
 
 R = '\033[31m'	 # red

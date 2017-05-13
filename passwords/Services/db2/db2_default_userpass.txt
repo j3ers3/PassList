@@ -1,0 +1,13 @@
+db2inst1:db2inst1
+db2inst1:db2pass
+db2inst1:db2pw
+db2inst1:db2password
+dasusr1:dasusr1
+db2fenc1:db2fenc1
+db2admin:db2admin
+admin:admin
+db2admin:admin
+db2admin:123456
+db2admin:password
+db2admin:Password
+db2admin:Passw0rd

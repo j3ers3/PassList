@@ -3,9 +3,11 @@ admin888
 admin1
 admin01
 admini
+super
 superadmin
 supermanager
 manager
+developer
 root
 root00
 test
@@ -15,8 +17,7 @@ user01
 user02
 guest
 admin' or '1'='1
-admin' or '1'='1 --+
-admin" or "1"
+admin" or "1
 admin'--
 admin"--
 subject
@@ -41,6 +42,7 @@ kefu
 xsb
 rsdl
 rckf
+sjld
 zhangwei
 wangwei
 wangfang
