@@ -2,14 +2,4 @@ anonymous
 ftpuser
 ftp
 admin
-ftp123
-user
-guest
-aaa
-111
-1
-000
-123
-root
-proftp
-vsftp
+tUser
