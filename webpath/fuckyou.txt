@@ -56,7 +56,13 @@
 /11.rar
 /12.rar
 /123.rar
+/hydenglu.aspx
+/denglu.aspx
+/denglu.asp
+/denglu.php
+/denglu.jsp
 /1234.rar
+/defaultroot
 /13.rar
 /123.php
 /123.asp
@@ -157,6 +163,7 @@
 /@fuck_youmama
 /Ad
 /Adm
+/adminoa
 /axis2-admin
 /Admin_Admin.aspx
 /Admin_Login.aspx
@@ -202,8 +209,6 @@
 /WEB-INF/classes/hibernate.cfg.xml
 /WEB-INF/classes/jdbc.properties
 /WEB-INF/classes/rabbitmq.xml
-/WEB-INF/classes/spring.xml
-/WEB-INF/classes/struts.xml
 /WEB-INF/classes/struts_manager.xml
 /WEB-INF/conf/database_config.properties
 /WEB-INF/config.xml
@@ -250,6 +255,8 @@
 /admin.rar
 /admin.sql
 /admin.tar.bz2
+/imdex.asp 
+/channel
 /admin.tar.gz
 /admin.tgz
 /config/config_ucenter.php.bak
@@ -287,6 +294,7 @@
 /adminlogin.do
 /adminlogin.jsp
 /adminlogin.php
+/admin/adminlogin.asp
 /adminweb
 /angle.php
 /api
@@ -346,7 +354,9 @@
 /config/config_ucenter.php.bak
 /config/database.yml
 /configuration.ini
+/configuration
 /control
+/controls
 /crm
 /main
 /main/home.html
@@ -554,6 +564,7 @@
 /manage_login.php
 /manageadmin
 /manager/html
+/sm5
 /probe
 /master
 /mas
@@ -903,8 +914,10 @@
 /inc/AspCms_AdvJs.asp
 /portal.php?mod=view
 /sites/all/themes/
+/invoker/EJBInvokerServlet
 /sites/all/modules/
 /sites/default/files/
+/default
 /templates/default/css/common.css
 /templates/default/style/tempates_div.css
 /ks_inc/common.js
@@ -1005,6 +1018,7 @@
 /static/cdr-stats/js/jquery
 /nobody/loginDevice.js
 /axis2-web/css/axis-style.css
+/axis2//axis2-web/HappyAxis.jsp
 /axis2
 /css/ireport.css
 /deptWebsiteAction.do
@@ -1101,3 +1115,20 @@
 /gongzi
 /hr
 /umc
+/css.jsp
+/css.php
+/css.asp
+/css.aspx
+/k8.jsp
+/k8.php
+/k8.asp
+/k8.aspx
+/help.jsp
+/help.asp
+/help.aspx
+/help.php
+/0000.jsp
+/0.jsp
+/000.jsp
+/weige.asp
+/weige.aspx
