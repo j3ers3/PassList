@@ -1,0 +1,315 @@
+万天备分系统
+账户是WT_admin
+密码 19885510
+GHOST密码 wtidc@））（
+
+天下技术备分系统
+administrator
+xyidc_2006
+
+中亿网维
+administrator
+95217189
+95217
+ghost密码95217
+
+亿迅备分系统
+cceii  chinayixun   ghost 密码也是  chinayixun
+华晨
+Administrator
+GHOST ：huachen1258zz
+密码huachen1258zz
+三合(3h8)
+administrator
+zhangzhao
+sanhe123
+密码3H8IDC!!#或者3H8IDC72sanhe000
+xiaoyili
+sanhe000~!@#  
+3H8IDC!!#
+
+比天数据机房
+root
+123654
+
+3IIS
+3IIS 1008
+1008
+administrator
+95313\
+ghost密码95313
+
+数据先锋网维
+Administrator
+Chinawidc168
+Chinaidcw
+承天客服II
+用户名：administrator，密码：ctnt空格空格idc../123/ctnt123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+中亿网维
+administrator
+95217158
+端口：  23389   11289
+ghost密码95217189
+
+
+亿迅备分系统
+user:cceii
+password:chinayixun
+ghost:chinayixun
+
+(老的USER:haoeii
+PASSWORD:zhouping
+ghost zouping)
+
+
+三合互联
+administrator
+3H8IDC+IP最后一栏）
+
+（老的sanhe000~!@#两空格
+3H8IDC!!#
+xiaoyili
+zhangzhao
+sanhe123
+sanhe000）
+
+
+数据先锋
+administrator
+chinaidcw168
+
+*创新网维① 
+GHOST密码：953139.
+GHOST密码：1008
+GHOST密码：95313
+
+
+华晨
+user:administrator
+password:huachen1258zz
+ghost:huachen1258zz
+
+
+
+天融信防火墙，不需要证书
+登录地址:https://192.168.1.254
+用户名:superman
+密码:talent
+技术支持热线：8008105119
+
+天融信防火墙，不需要证书
+登录地址:https://192.168.1.254：8080
+用户名:superman
+密码:talent！23
+遇到设备需要把旧设备配置备份下来，再倒入新设备
+基于console口登陆，用户名，密码跟web界面一致
+system config reset 
+
+清除配置
+save 保存
+
+联想网御防火墙，需要证书（最好用IE浏览器登录）
+登录地址:https://10.1.5.254:8889
+用户名:admin
+密码:leadsec@7766、administrator、bane@7766
+技术支持热线：4008107766
+010-56632666
+
+深信服防火墙（注安全设备管理地址不是唯一的）
+https://10.251.251.251
+https://10.254.254.254
+用户名：admin
+密码：admin
+技术支持热线：4006306430
+
+启明星辰
+https://10.1.5.254:8889     
+用户名：admin
+密码：bane@7766
+
+https://10.50.10.45:8889
+用户名：admin
+密码：admin@123
+电脑端IP：10.50.10.44/255.255.255.0
+技术支持热线：4006243900
+
+juniper
+登录地址:https://192.168.1.1
+用户名:netscreen
+密码:netscreen
+
+Cisco
+登录地址:https://192.168.0.1
+用户名:admin
+密码:cisco
+
+Huawei
+登录地址:http://192.168.0.1
+用户名:admin
+密码:Admin@123
+
+H3C
+登录地址:http://192.168.0.1
+用户名:admin
+密码:admin
+技术支持热线：4006306430
+
+绿盟IPS
+https://192.168.1.101
+用户名: weboper
+密码: weboper
+配置重启生效
+
+网神防火墙GE1口
+https://10.50.10.45
+用户名：admin
+密码：firewall
+技术支持热线：4006108220
+
+
+深信服VPN：
+51111端口        delanrecover
+
+华为VPN：
+账号：root  密码：mduadmin
+
+华为防火墙：
+admin        Admin@123
+eudemon        eudemon
+
+Juniper防火墙：
+netscreen        netscreen
+
+迪普
+192.168.0.1
+默认的用户名和密码（admin/admin_default)
+
+山石
+192.168.1.1
+默认的管理账号为hillstone，密码为hillstone
+
+
+
+深信服VPN：
+51111端口        delanrecover
+
+华为VPN：
+账号：root  密码：mduadmin
+
+华为防火墙：
+admin        Admin@123
+eudemon        eudemon
+
+Juniper防火墙：
+netscreen        netscreen
+
+
+天融信防火墙，不需要证书 登录地址:https://192.168.1.254 用户名:superman 密码:talent 技术支持热线：8008105119
+
+天融信防火墙，不需要证书 登录地址:https://192.168.1.254：8080 用户名:superman 密码:talent！23 遇到设备需要把旧设备配置备份下来，再倒入新设备 基于console口登陆，用户名，密码跟web界面一致 system config reset
+
+清除配置 save 保存
+
+联想网御防火墙，需要证书（最好用IE浏览器登录） 登录地址:https://10.1.5.254:8889 用户名:admin 密码:leadsec@7766、administrator、bane@7766 技术支持热线：4008107766 010-56632666
+
+深信服防火墙（注安全设备管理地址不是唯一的） https://10.251.251.251 https://10.254.254.254 用户名：admin 密码：admin 技术支持热线：4006306430
+
+启明星辰 https://10.1.5.254:8889
+用户名：admin 密码：bane@7766
+
+https://10.50.10.45:8889 用户名：admin 密码：admin@123 电脑端IP：10.50.10.44/255.255.255.0 技术支持热线：4006243900
+
+juniper 登录地址:https://192.168.1.1 用户名:netscreen 密码:netscreen
+
+Cisco 登录地址:https://192.168.0.1 用户名:admin 密码:cisco
+
+Huawei 登录地址:http://192.168.0.1 用户名:admin 密码:Admin@123
+
+H3C 登录地址:http://192.168.0.1 用户名:admin 密码:admin 技术支持热线：4006306430
+
+绿盟IPS https://192.168.1.101 用户名: weboper 密码: weboper 配置重启生效
+
+网神防火墙GE1口 https://10.50.10.45 用户名：admin 密码：firewall 技术支持热线：4006108220
+
+深信服VPN： 51111端口 delanrecover
+
+华为VPN： 账号：root 密码：mduadmin
+
+华为防火墙： admin Admin@123 eudemon eudemon
+
+Juniper防火墙： netscreen netscreen
+
+迪普 192.168.0.1 默认的用户名和密码（admin/admin_default)
+
+山石 192.168.1.1 默认的管理账号为hillstone，密码为hillstone
+
+安恒的明御防火墙 admin/adminadmin
+
+某堡垒机 shterm/shterm
+
+天融信的vpn test/123456
+
+
+H3C web网管用户登录
+用户名：admin
+密码：h3capadmin
+___________________________
+维盟路由器
+用户名：admin，root
+密码：admin
+___________________________
+绿盟极光扫描器
+用户名：admin, reporter，auditor
+密码：nsfocus
+___________________________
+启明星辰天镜
+用户名：root
+密码：venustech60
+___________________________
+明御APT
+用户名：admin
+密码：Dbapp@2014
+___________________________
+铱讯 Yxlink WAF
+用户名：sysadmin
+密码：sysadmin
+___________________________
+IBM IMM 集成管理模块
+用户名：USERID
+密码：PASSW0RD
+___________________________
+大华监控设备
+用户名：admin
+密码：admin
+___________________________
+华夏创新AppEx、Lotware、LotWan、LotFlow、LotAccess、LotBalance、LotMobile以及华创路由器
+用户名：admin
+密码：admin
+___________________________
+锐捷NBR系列
+用户名：manager
+密码：manager

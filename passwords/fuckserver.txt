@@ -9,6 +9,8 @@
 121212
 113355
 112233
+620620
+111666
 111222
 111111a
 111111
@@ -32,7 +34,11 @@ password5
 password4
 password3
 password2
+password12
 password123
+password1234
+password12345
+password123456
 password111
 password1!2@
 Password1!2#
@@ -85,6 +91,9 @@ abcd12345
 abcd-1234
 abcd1234
 abcd123
+z12345
+Z12345
+T112233
 abcd_1234
 abc520.
 abc520
@@ -117,6 +126,7 @@ abc_123
 abc.1234
 abc.123
 ab123456789
+ABCabc123
 ab123456
 AAAAAA
 aaaaaa
@@ -131,6 +141,7 @@ Aa123456
 aa123456
 aa123
 a987654321
+123.789+
 a7758521
 a5201314
 a1b2c3d4
@@ -146,6 +157,7 @@ a1234567
 A123456
 a123456
 a12345
+A12345
 a1234
 A123321
 a123321
@@ -158,6 +170,7 @@ a000000
 a
 000000a
 0000000000
+37h3h3@@
 000000000
 00000000
 0000000
@@ -591,6 +604,9 @@ adm
 123abc!@#
 123-abc
 123abc
+123abc.
+123abc..
+123abc...
 123.abc
 123...
 123!@#QWE
@@ -664,6 +680,7 @@ zxcvbnm,.
 zxcvbnm,
 ZXCVBNM
 zxcvbnm
+starwars
 zxcvbn
 zxcv123456
 zxcv1234
@@ -687,6 +704,7 @@ you
 yongyuanaini
 yihan
 yellow
+login
 yangyang
 yang123456
 yang123
@@ -736,6 +754,7 @@ westlife
 welcome
 wangwei
 wangjing
+trustno1
 wanghui
 wang123456789
 wang123456
@@ -771,6 +790,8 @@ tequiero
 teamo
 taylor
 t12345
+T12345
+T123456
 system1
 system
 systeam
@@ -890,6 +911,8 @@ qq1314520
 qq123456789
 qq1234567
 QQ123456
+QQ12345
+qq12345
 qq123456
 qq1234
 qq123123
@@ -1342,3 +1365,10 @@ abcdefg123
 !QAZ2wsx
 !QAZ@WSX
 !QA2ws3ed
+87679535
+994115
+86367061
+89066648
+82113396
+88205623
+610978
