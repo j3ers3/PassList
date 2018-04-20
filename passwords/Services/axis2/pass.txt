@@ -1,5 +1,0 @@
-axis2
-axis
-admin
-password
-123456
