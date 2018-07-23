@@ -71,3 +71,7 @@ passwordoracle
 11111111
 88888888
 a12345678
+oracle11g
+oracle10g
+oracle12g
+oracle13g
