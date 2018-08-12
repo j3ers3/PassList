@@ -794,6 +794,11 @@
 /test2.html
 /test2.php
 /test2.txt
+/sql.txt
+/sql1.txt
+/sql.log
+/sql.sql
+/C6.rar
 /uc_server/data/config.inc.php.bak
 /data/config.inc.php.bak
 /data/config.inc.php.txt
@@ -1011,7 +1016,6 @@
 /sites/default/settings.php.bak
 /index.php?q=user
 /index.html
-
 /wcm
 /WCM
 /WCMV6
@@ -1456,3 +1460,6 @@
 /mssql
 /jccpConnPoolInfo.do
 /proxool.xml
+/general/news.
+/home.action
+/index.action
