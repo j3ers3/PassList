@@ -1,0 +1,15 @@
+crccfc
+root
+admin
+ftp
+roo
+tomcat
+test
+123
+root1
+root123
+ftpuser
+guest
+crccre
+crcc
+user

@@ -283,6 +283,7 @@ admin!!
 admin!
 Admin
 admin
+admin' or '1'='1
 adm
 admin_Pa$$word
 
@@ -705,6 +706,7 @@ Passw0rdfile
 45rt$%
 123
 0123
+121.15.249.138
 111
 99
 88
@@ -1439,6 +1441,7 @@ aini1314
 ai123456
 adriana
 adrian
+
 adidas
 abigail
 abcdefg123456
@@ -1465,3 +1468,6 @@ abcdefg123
 82113396
 88205623
 610978
+myoa888
+tsy1
+tongweb
