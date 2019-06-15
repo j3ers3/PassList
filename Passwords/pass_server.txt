@@ -615,6 +615,7 @@ Passw0rdfile
 2019
 2016
 2015
+ILikePasswords
 2014
 2013
 2012
@@ -751,6 +752,7 @@ Passw0rdfile
 1qaz2wsx
 1qaz@WSX
 1qaz!QAZ
+1qaz2wsx!@
 1q2w3e4r5t
 1q2w3e4r
 1q2w3e
@@ -1186,6 +1188,7 @@ jackson
 jackie
 isabel
 ipconfig
+ifconfig
 inuyasha
 internet
 imissyou
@@ -1465,3 +1468,6 @@ abcdefg123
 82113396
 88205623
 610978
+a!123456
+a!123456789
+a!123

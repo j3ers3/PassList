@@ -85,7 +85,7 @@ j.zhang
 zhangxiuying   
 zxy   
 zhang.xiuying   
-xiuying   .zhang
+xiuying.zhang
 zhangxy   
 xy   .zhang
 liqiang

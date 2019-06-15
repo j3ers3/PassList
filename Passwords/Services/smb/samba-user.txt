@@ -1,5 +1,0 @@
-smbuser
-smb
-root
-public
-guest

@@ -1,3 +1,9 @@
+root:root
+root:123456
+root:123
+root:mysql
+root:
+root:admin
 mysql:123456
 mysql:0123456
 mysql:123452
