@@ -870,6 +870,8 @@ admin001
 admin002
 admin003
 admin.
+admin..
+admin...
 admi
 admin"--
 admin" or "1
@@ -1030,3 +1032,12 @@ qwer222
 xyz
 qwe123123
 taobao
+admin$
+admin!
+admin#
+admin@
+admin%
+admin^
+admin&
+admin*
+$admin$

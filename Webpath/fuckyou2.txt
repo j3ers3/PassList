@@ -1,17 +1,3 @@
-.bash_history
-.bashrc
-.cache
-.config
-.cvs
-.cvsignore
-.forward
-.git/HEAD
-.history
-.hta
-.htaccess
-.htpasswd
-.listing
-.listings
 @
 _
 _adm
