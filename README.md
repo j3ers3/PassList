@@ -1,11 +1,9 @@
-<div align="center" style="font-size:40px" >
-😈 Security PassList 
-</div>
-<br>
+# 😈 Security PassList 
 <div align=center>
-    <img src="./Others/x.jpg" width = "600" height = "400"/>
+    <img src="./Others/x.jpg" width = "600" height = "410"/>
 </div>
 
+> 不定期更新中...
 
 ## The List
 - 🐳 [Passwords](https://github.com/j3ers3/PassList/tree/master/Passwords) - Some common passwords
@@ -23,7 +21,7 @@
 - 🐷 [Other](https://github.com/j3ers3/PassList/tree/master/Others) - Some of the collected passwords
 
 
-> 不定期更新
+
 
 ## Contact
 - [Twitter](https://twitter.com/j3ers3)
