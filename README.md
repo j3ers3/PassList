@@ -1,10 +1,10 @@
-<p align="center" style="font-size:40px" >
+<div align="center" style="font-size:40px" >
 😈 Security PassList 
-</p>
-
-<p align="center">
-    <img src="https://github.com/j3ers3/PassList/blob/master/Others/x.jpg" height="30%"></img>
-</p>
+</div>
+<br>
+<div align=center>
+    <img src="./Others/x.jpg" width = "600" height = "400"/>
+</div>
 
 
 ## The List
