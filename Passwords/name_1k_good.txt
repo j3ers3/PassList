@@ -712,6 +712,7 @@ liangaizhen
 king
 kf
 kefu
+kehu
 kangfuxiang
 jintao
 jingying
@@ -732,6 +733,7 @@ huangwei
 huangning
 huangmin
 huanghe
+huang
 huagnzhitan
 hr
 heyunan
@@ -1041,3 +1043,7 @@ admin^
 admin&
 admin*
 $admin$
+ad666
+ad777
+ad888
+gx

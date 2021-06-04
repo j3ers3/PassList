@@ -4,14 +4,23 @@ Redis
 redis123
 Redis123
 redis123456
+redis_123456
 Redis123456
+REDIS
 redis111
 Redis111
+redis1
+redis2
 redis000
 redsi
 redis!
+redis01!
+Redis01!
 Redis!
 redispass
+redis_pass
+redis_password
+redis_password1
 redispassword
 RedisPassword
 myredis
@@ -390,7 +399,6 @@ sexsex
 superman
 super123
 dragon
-admin' or '1'='1
 footbal
 baseball
 apple
