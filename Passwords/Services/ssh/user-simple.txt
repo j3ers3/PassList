@@ -1,0 +1,4 @@
+root
+ftp
+mysql
+test
